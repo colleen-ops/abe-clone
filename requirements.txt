@@ -1,0 +1,6 @@
+anthropic
+voyageai
+supabase
+openpyxl
+requests
+python-dotenv
